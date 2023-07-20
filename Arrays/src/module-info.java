@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Myzone
- *
- */
-module Arrays {
-}
